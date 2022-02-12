@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa778946b25317e937cf0456dB4588Eda159CF1e4",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa778946b25317e937cf0456dB4588Eda159CF1e4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "HODL Hearts",
+  "SYMBOL": "HHNFT",
+  "MAX_SUPPLY": 4800,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hodl-hearts-testnets",
+  "SHOW_BACKGROUND": true
+}
